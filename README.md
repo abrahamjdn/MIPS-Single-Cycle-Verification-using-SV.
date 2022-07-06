@@ -5,3 +5,5 @@ Verification of the instructions implemented in the Mips Single cycle using the 
 ![sv_verification_mips](https://user-images.githubusercontent.com/108389027/176380479-32ba5ebd-11f1-4506-b2cb-c0becbdad920.svg)
 
 ![image](https://user-images.githubusercontent.com/108389027/176378845-95b8d183-d72f-4e93-b939-bcab356188fd.png)
+EDAplayground public link:
+https://www.edaplayground.com/x/6Y3x
